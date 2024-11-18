@@ -3,10 +3,11 @@ GraphQL to TypeScript type, **no code gen** with ith Prisma-like query syntax, f
 
 **Written purely in TypeScript type.**
 
+![Mobius Plushie](https://github.com/user-attachments/assets/fffb4a7d-3da0-4acf-a479-440b80d26be3)
 
-Brought to you by [ElysiaJS](https://elysiajs.com)
+<!-- Brought to you by [ElysiaJS](https://elysiajs.com) -->
 
-![mobius](https://github.com/SaltyAom/mobius/assets/35027979/0bb3291e-49f2-45da-9bcf-3e283ec3cc4d)
+<!-- ![mobius](https://github.com/SaltyAom/mobius/assets/35027979/0bb3291e-49f2-45da-9bcf-3e283ec3cc4d) -->
 
 ---
 
